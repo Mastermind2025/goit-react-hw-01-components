@@ -1,0 +1,16 @@
+.statistics {
+    width: 350px;
+    margin: 0 auto;
+    background-color: rgb(181, 206, 216);
+
+}
+
+.title {
+    text-transform: uppercase;
+    color: rgb(57, 54, 54);
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 24px;
+}
